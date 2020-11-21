@@ -132,7 +132,6 @@ param :
     CGroup8	28175	0.165773679595818
 ;
 
-
 param buys (tr) :
             CGroup1	CGroup2	CGroup3	CGroup4	CGroup5	CGroup6	CGroup7	CGroup8 :=
     Group1	0	    1	    0	    1	    0	    0	    0	    0
